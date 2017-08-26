@@ -68,7 +68,7 @@ div.columns ul li:first-child {
 }
 
 div.waifu {
-	background-image: url(waifu.jpg);
+	background-image: url(waifu.png);
 	background-size: cover;
 	background-position: center;
 	box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
