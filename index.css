@@ -38,7 +38,7 @@ div.main h1 {
 
 div.main a {
 	color: white !important;
-	text-decoration-style: dashed;
+	text-decoration-style: underline;
 }
 
 div.main a:hover {
